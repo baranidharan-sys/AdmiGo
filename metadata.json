@@ -1,0 +1,6 @@
+{
+  "name": "UniPortfolio AI",
+  "description": "Indian College Admission & Financial Portfolio Analyzer for students navigating entrance exams, cutoffs, tuition fees, and education budgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
